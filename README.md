@@ -1,0 +1,2 @@
+# scnuex
+Daily digest notes
